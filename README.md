@@ -1,1 +1,0 @@
-# konnyuuki.github.io
