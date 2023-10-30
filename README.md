@@ -1,7 +1,7 @@
 # [yuukikonno.com](https://yuukikonno.com/)
 
-This is yuuki’s personal website.  It just links to his X etc. like Linktree.
-The latest snapshots via:
+This is yuuki’s personal website.  It only contains links to his X etc. like
+Linktree.  The latest snapshots via:
 
 * [Internet Archive](https://web.archive.org/web/20231029160238/https://yuukikonno.com/)
 * [Archive.today](https://archive.today/2023.10.29-160245/https://yuukikonno.com/)
