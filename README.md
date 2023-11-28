@@ -6,7 +6,7 @@ This is yuuki's personal website.
 
 * [yuukikonno.com](https://yuukikonno.com/)
 * [yuukikonno.pages.dev](https://yuukikonno.pages.dev/)
-* [yuukiblog.github.io](https://yuukiblog.github.io/)
+* [yuuki27.github.io](https://yuuki27.github.io/)
 
 ## Latest snapshots
 
