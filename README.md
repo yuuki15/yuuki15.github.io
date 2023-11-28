@@ -1,6 +1,6 @@
 # [yuukikonno.com](https://yuukikonno.com/)
 
-This is yuuki's personal website. It only contains links to my X etc. like Linktree.
+This is yuuki's personal website. It can be accessed at [yuukikonno.com](https://yuukikonno.com/) or [yuuki15.github.io](https://yuuki15.github.io/). It only contains links to my X etc. like Linktree.
 
 ## Latest snapshots
 
