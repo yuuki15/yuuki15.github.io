@@ -1,6 +1,10 @@
 # [yuukikonno.com](https://yuukikonno.com/)
 
-This is yuuki's personal website. It can be accessed at [yuukikonno.com](https://yuukikonno.com/), [yuukikonno.pages.dev](https://yuukikonno.pages.dev/), or [yuuki15.github.io](https://yuuki15.github.io/). It only contains links to my social profiles like Linktree.
+This is yuuki's personal website. It only contains links to my social profiles like Linktree. It can be accessed at:
+
+* [yuukikonno.com](https://yuukikonno.com/)
+* [yuukikonno.pages.dev](https://yuukikonno.pages.dev/)
+* [yuuki15.github.io](https://yuuki15.github.io/)
 
 ## Latest snapshots
 
