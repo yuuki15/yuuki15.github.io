@@ -4,9 +4,9 @@ This is yuuki's personal website.
 
 ## Availability
 
-* https://yuukikonno.com/
-* https://yuukikonno.pages.dev/
-* https://yuuki15.github.io/
+* [yuukikonno.com](https://yuukikonno.com/)
+* [yuukikonno.pages.dev](https://yuukikonno.pages.dev/)
+* [yuuki15.github.io](https://yuuki15.github.io/)
 
 ## Latest snapshots
 
