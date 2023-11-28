@@ -1,12 +1,12 @@
 # [yuukikonno.com](https://yuukikonno.com/)
 
-This is yuuki's personal website. It only contains links to my social profiles.
+This is yuuki's personal website.
 
 ## Availability
 
 * [yuukikonno.com](https://yuukikonno.com/)
 * [yuukikonno.pages.dev](https://yuukikonno.pages.dev/)
-* [yuuki15.github.io](https://yuuki15.github.io/)
+* [yuukiblog.github.io](https://yuukiblog.github.io/)
 
 ## Latest snapshots
 
