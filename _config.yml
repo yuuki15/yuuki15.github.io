@@ -1,1 +1,2 @@
 remote_theme: jekyll-theme-plain-text/plain-text
+permalink: /blog/:title
