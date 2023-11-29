@@ -8,6 +8,6 @@ permalink: /blog/:title
 collections:
   pages:
     output: true
-    permalink: /:title
+    permalink: /:title/
 
 remote_theme: jekyll-theme-plain-text/jekyll-theme-plain-text
