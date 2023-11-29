@@ -6,3 +6,5 @@ collections:
   pages:
     output: true
     permalink: /:title
+
+redirects: yes
