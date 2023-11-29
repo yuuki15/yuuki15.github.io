@@ -1,19 +1,12 @@
 remote_theme: jekyll-theme-plain-text/jekyll-theme-plain-text
 
-permalink: /blog/:title
+permalink: "/blog/:title"
 
 collections:
   pages:
     output: true
-    permalink: /:title
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: pages
-    values:
-      redirect_from: /:title/
+    permalink: "/:title"
+    redirect_from: "/:title/"
 
 plugins:
   - jekyll-redirect-from
