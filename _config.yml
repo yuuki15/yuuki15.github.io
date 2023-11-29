@@ -2,10 +2,5 @@ remote_theme: jekyll-theme-plain-text/jekyll-theme-plain-text
 
 permalink: /blog/:title
 
-collections:
-  pages:
-    output: true
-    permalink: /:title
-
 plugins:
   - jekyll-redirect-from
