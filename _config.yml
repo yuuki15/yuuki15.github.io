@@ -11,9 +11,9 @@ defaults:
   -
     scope:
       path: ""
-      type: "pages"
+      type: pages
     values:
-      redirects_from: "/:title/"
+      redirect_from: /:title/
 
 plugins:
   - jekyll-redirect-from
