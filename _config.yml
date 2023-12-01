@@ -10,4 +10,12 @@ collections:
     output: true
     permalink: /:title/
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
 remote_theme: jekyll-theme-plain-text/jekyll-theme-plain-text
