@@ -5,48 +5,48 @@ date: '2023-05-28 03:14:00 +0000'
 Source of the Japanese lyrics: https://oshu-esashi.com/jinku/words.html
 
 一、甚句踊りは　かどまで来たや　（チョイサノサッサ　チョイサノサッサ）
-<br>jinku odori wa kado made kita ya
-<br>The jinku parade is passing by my house
+jinku odori wa kado made kita ya
+The jinku parade is passing by my house
 
 　　じいさま出てみろ　アリャ孫つれて　（チョイサノサッサ　チョイサノサッサ）
-<br>jii sama dete miro arya mago tsurete
-<br>Come out, grandfather, with your grandchild [^1]
+jii sama dete miro arya mago tsurete
+Come out, grandfather, with your grandchild [^1]
 
 
-<br>二、この家座敷は　めでたい座敷　（チョイサノサッサ　チョイサノサッサ）
-<br>kono ya zashiki wa medetai zashiki
-<br>The parlor of this house is an auspicious parlor [^2]
+二、この家座敷は　めでたい座敷　（チョイサノサッサ　チョイサノサッサ）
+kono ya zashiki wa medetai zashiki
+The parlor of this house is an auspicious parlor [^2]
 
 　　鶴と亀とが　アリャ舞い遊ぶ　（チョイサノサッサ　チョイサノサッサ）
-<br>tsuru to kame to ga arya mai asobu
-<br>The crane and tortoise cavort [^3]
+tsuru to kame to ga arya mai asobu
+The crane and tortoise cavort [^3]
 
 
-<br>三、甚句踊らば　品良く踊れ　（チョイサノサッサ　チョイサノサッサ）
-<br>jinku odoraba shina yoku odore
-<br>If you're going to dance jinku, dance with grace [^4]
+三、甚句踊らば　品良く踊れ　（チョイサノサッサ　チョイサノサッサ）
+jinku odoraba shina yoku odore
+If you're going to dance jinku, dance with grace [^4]
 
 　　品の良いのを　アリャ嫁にとる　（チョイサノサッサ　チョイサノサッサ）
-<br>shina no yoi no o arya yome ni toru
-<br>The most graceful will become my bride [^5]
+shina no yoi no o arya yome ni toru
+The most graceful will become my bride [^5]
 
 
-<br>四、めでたうれしや　思ふことかのうた　（チョイサノサッサ　チョイサノサッサ）
-<br>medeta ureshi ya omou koto kanouta
-<br>How auspicious, how happy I am, my dreams come true
+四、めでたうれしや　思ふことかのうた　（チョイサノサッサ　チョイサノサッサ）
+medeta ureshi ya omou koto kanouta
+How auspicious, how happy I am, my dreams come true
 
 　　四つのすみから　アリャ黄金わく　（チョイサノサッサ　チョイサノサッサ）
-<br>yotsu no sumi kara arya kogane waku
-<br>Gold springs from the four corners
+yotsu no sumi kara arya kogane waku
+Gold springs from the four corners
 
 
-<br>五、甚句踊りの　江刺の里は　（チョイサノサッサ　チョイサノサッサ）
-<br>jinku odori no esashi no sato wa
-<br>Esashi the village of jinku dance
+五、甚句踊りの　江刺の里は　（チョイサノサッサ　チョイサノサッサ）
+jinku odori no esashi no sato wa
+Esashi the village of jinku dance
 
 　　味がじまんの　アリャ米どころ　（チョイサノサッサ　チョイサノサッサ）
-<br>aji ga jiman no arya kome dokoro
-<br>Is famous for its flavorful rice
+aji ga jiman no arya kome dokoro
+Is famous for its flavorful rice
 
 References
 ----------
