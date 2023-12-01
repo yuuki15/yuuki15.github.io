@@ -1,6 +1,6 @@
 # [yuukikonno.com](https://yuukikonno.com/)
 
-This is yuuki's personal website. It uses [jekyll-theme-plain-text](https://github.com/jekyll-theme-plain-text/jekyll-theme-plain-text).
+This is yuuki's personal website. It uses the [Plain Text](https://github.com/jekyll-theme-plain-text/jekyll-theme-plain-text) Jekyll theme.
 
 ## Availability
 
