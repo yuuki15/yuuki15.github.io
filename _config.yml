@@ -19,4 +19,4 @@ defaults:
     values:
       layout: post
 
-remote_theme: jekyll-theme-plain-text/jekyll-theme-plain-text
+remote_theme: jekyll-theme-blank/jekyll-theme-blank
