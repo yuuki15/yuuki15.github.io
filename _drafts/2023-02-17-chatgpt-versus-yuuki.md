@@ -1,5 +1,5 @@
 ---
-date: '2023-02-17 00:00:00 +0000'
+date: '2023-02-17 00:00:00 +0900'
 ---
 
 On February 16, 2023, I became the first human being to play a complete game of shogi (Japanese chess) against ChatGPT. I listed all the legal moves on each ChatGPT's turn and let them choose their move. I uploaded the game (kifu) to Lishogi https://lishogi.org/pma1myEC and Shogi Playground https://kifu.co/Zw7L (also included at the end of this paper).
