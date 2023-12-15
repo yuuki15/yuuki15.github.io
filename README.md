@@ -2,9 +2,10 @@
 
 This is yuuki's personal website. It uses the [Blank](https://github.com/jekyll-theme-blank/jekyll-theme-blank) Jekyll theme.
 
-## Availability
-
 * [yuukikonno.com](https://yuukikonno.com/)
+
+## Mirrors
+
 * [yuukikonno.pages.dev](https://yuukikonno.pages.dev/)
 * [yuuki15.github.io](https://yuuki15.github.io/)
 
