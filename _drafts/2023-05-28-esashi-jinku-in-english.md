@@ -33,7 +33,7 @@ The most graceful will become my bride [^5]
 
 四、めでたうれしや　思ふことかのうた　（チョイサノサッサ　チョイサノサッサ）
 medeta ureshi ya omou koto kanouta
-How auspicious, how happy I am, my dreams come true
+How auspicious, how happy I am, my dream comes true
 
 　　四つのすみから　アリャ黄金わく　（チョイサノサッサ　チョイサノサッサ）
 yotsu no sumi kara arya kogane waku
