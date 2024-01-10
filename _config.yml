@@ -15,6 +15,6 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: plain-text-post
+      layout: post
 
 remote_theme: jekyll-theme-blank/jekyll-theme-blank
