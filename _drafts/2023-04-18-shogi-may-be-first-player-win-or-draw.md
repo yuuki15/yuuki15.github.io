@@ -9,7 +9,7 @@ I proved that shogi is either a first-player win or a draw (i.e., not a second-p
 
 Proof: By strategy-stealing. Assume that shogi is a second-player win. Then both (A) and (B) are second-player wins by Assumption 1. However, in both (A') and (B'), by playing G-78, the first player can be equal to the second player in (A) and (B), respectively. (Either is perfect play for the second player by Assumption 2.) It then follows that shogi is a first-player win. Contradiction.
 
-Although neither assumption can be proven, this shows the connection between the opening theory of shogi and its game-theoretic value. Most contemporary shogi engines would support both assumptions. However, especially in (B) of Assumption 1, it may be controversial whether the move G-32 is perfect or not.
+Although neither assumption can be proven, most contemporary shogi engines would support both assumptions. However, especially in (B) of Assumption 1, it may be controversial whether the move G-32 is perfect or not.
 
 By the contrapositive, if shogi is a second-player win, then at least one of the following must be true:
 
