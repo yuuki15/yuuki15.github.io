@@ -54,7 +54,7 @@ I repeated this process. I ended up also saying
 
     It's your turn. Don't list moves. That's what I do. Say only the move you want to play. Don't say anything else. Choose one of them.
 
-every time. (Sometimes they started listing moves or responded as if I was consulting them about moves.) I created a shared link to the chat https://chat.openai.com/share/f406a004-ca2c-449d-b2ca-869f722dd458 and also uploaded the log to Pastebin https://pastebin.com/7qirN6mp. [^1]
+every time. I created a shared link to the chat https://chat.openai.com/share/f406a004-ca2c-449d-b2ca-869f722dd458 (also uploaded the log to Pastebin https://pastebin.com/7qirN6mp).[^1]
 
 The game
 --------
