@@ -7,7 +7,7 @@ This is yuuki's personal website. It uses the [Blank](https://github.com/jekyll-
 ## Mirrors
 
 * [yuukikonno.pages.dev](https://yuukikonno.pages.dev/)
-* [yuuki15.github.io](https://yuuki15.github.io/)
+* [yuukiarchive.github.io](https://yuukiarchive.github.io/)
 
 ## Latest snapshots
 
