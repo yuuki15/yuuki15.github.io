@@ -1,7 +1,8 @@
 title: yuuki's blog
 url: https://yuukikonno.com
 license_url: https://creativecommons.org/licenses/by-sa/4.0/
-stylesheet: base.css
+stylesheets:
+  - base.css
 
 permalink: /blog/:title
 
