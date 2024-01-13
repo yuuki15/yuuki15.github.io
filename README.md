@@ -1,4 +1,4 @@
-# yuuki's personal site
+# [yuuki's personal site](https://yuukikonno.com/)
 
 This is yuuki's personal site. It uses the [Blank](https://github.com/jekyll-theme-blank/jekyll-theme-blank) Jekyll theme.
 
