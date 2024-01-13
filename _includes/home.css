@@ -1,0 +1,9 @@
+
+      th {
+        text-align: left;
+        width: 10ch;
+      }
+
+      th[rowspan] {
+        vertical-align: top;
+      }
