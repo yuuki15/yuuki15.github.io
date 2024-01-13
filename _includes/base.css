@@ -2,12 +2,3 @@
       body {
         font-family: "Hiragino Mincho ProN", serif;
       }
-
-      th {
-        text-align: left;
-        width: 10ch;
-      }
-
-      th[rowspan] {
-        vertical-align: top;
-      }
