@@ -4,3 +4,8 @@
         text-align: left;
         vertical-align: top;
       }
+
+      td ul {
+        margin: 0;
+        padding-left: 1em;
+      }
