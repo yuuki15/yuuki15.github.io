@@ -1,9 +1,6 @@
 
-      th {
+      th,
+      td {
         text-align: left;
-        width: 11ch;
-      }
-
-      th[rowspan] {
         vertical-align: top;
       }
