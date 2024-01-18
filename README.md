@@ -11,6 +11,6 @@ This is yuuki's personal site. It uses the [Blank](https://github.com/jekyll-the
 
 ## Latest snapshots
 
-* [Internet Archive](https://web.archive.org/web/20240117054107/https://yuukikonno.com/)
-* [Archive.today](https://archive.today/2024.01.17-053957/https://yuukikonno.com/)
-* [Megalodon](https://megalodon.jp/2024-0117-1440-06/https://yuukikonno.com:443/)
+* [Internet Archive](https://web.archive.org/web/20240118121657/https://yuukikonno.com/)
+* [Archive.today](https://archive.today/2024.01.18-121702/https://yuukikonno.com/)
+* [Megalodon](https://megalodon.jp/2024-0118-2116-52/https://yuukikonno.com:443/)
