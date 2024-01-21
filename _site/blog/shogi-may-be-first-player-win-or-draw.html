@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="color-scheme" content="light dark">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>yuukikonno.com/blog/shogi-may-be-first-player-win-or-draw</title>
+    <link rel="canonical" href="https://yuukikonno.com/blog/shogi-may-be-first-player-win-or-draw">
+    <link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">
+    <style>
+      pre {
+        word-wrap: break-word;
+        overflow-wrap: break-word;
+        white-space: -moz-pre-wrap;
+        white-space: -pre-wrap;
+        white-space: -o-pre-wrap;
+        white-space: pre-wrap;
+        white-space: break-spaces;
+      }
+    </style>
+  </head>
+  <body>
+    <pre>I proved that shogi is either a first-player win or a draw (i.e., not a second-player win) if both of the following assumptions are true:
+
+1. Both P-26 G-32 [^1] (A) and P-76 G-32 [^2] (B) are perfect play for the second player.
+2. Either G-68 P-84 [^3] (A&#39;) or G-68 P-34 [^4] (B&#39;) is perfect play for the second player.
+
+Proof: By strategy-stealing. Assume that shogi is a second-player win. Then both (A) and (B) are second-player wins by Assumption 1. However, in both (A&#39;) and (B&#39;), by playing G-78, the first player can be equal to the second player in (A) and (B), respectively. (Either is perfect play for the second player by Assumption 2.) It then follows that shogi is a first-player win. Contradiction.
+
+Although neither assumption can be proven, most contemporary shogi engines would support both assumptions. However, especially in (B) of Assumption 1, it may be controversial whether the move G-32 is perfect or not.
+
+By the contrapositive, if shogi is a second-player win, then at least one of the following must be true:
+
+1. P-26 G-32 is not perfect play for the second player.
+2. P-76 G-32 is not perfect play for the second player.
+3. Both G-68 P-84 and G-68 P-34 are not perfect play for the second player.
+
+
+[^1]: http://kyokumen.jp/positions/91901
+[^2]: http://kyokumen.jp/positions/61913
+[^3]: http://kyokumen.jp/positions/14532033
+[^4]: http://kyokumen.jp/positions/14532034
+</pre>
+  </body>
+</html>
