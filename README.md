@@ -1,13 +1,11 @@
-# [yuuki's personal site](https://yuukikonno.com/)
+# [yuukikonno.com](https://yuukikonno.com/)
 
-This is yuuki's personal site. It uses the [Blank](https://github.com/jekyll-theme-blank/jekyll-theme-blank) Jekyll theme.
-
-* https://yuukikonno.com/
+This is yuuki's personal site.  It uses the [Plain](https://github.com/jekyll-theme-plain/jekyll-theme-plain) Jekyll theme.
 
 ## Mirrors
 
-* https://yuukikonno.pages.dev/
-* https://yuukiarchive.github.io/
+* [yuukikonno.pages.dev](https://yuukikonno.pages.dev/)
+* [yuukiarchive.github.io](https://yuukiarchive.github.io/)
 
 ## Latest snapshots
 
