@@ -7,7 +7,6 @@ stylesheets:
   - base.css
 
 exclude:
-  - 404.html
   - Gemfile
   - Gemfile.lock
   - LICENSE
