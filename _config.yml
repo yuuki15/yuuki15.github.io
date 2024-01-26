@@ -2,13 +2,10 @@ remote_theme: jekyll-theme-plain/jekyll-theme-plain
 
 title: yuuki
 url: https://yuukikonno.com
-license: https://creativecommons.org/licenses/by-sa/4.0/
-stylesheets:
-  - base.css
+license_url: https://creativecommons.org/licenses/by-sa/4.0/
 
 exclude:
-  - Gemfile
-  - Gemfile.lock
+  - Gemfile*
   - LICENSE
   - README.md
 
@@ -20,14 +17,11 @@ collections:
     permalink: /:title/
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
-      type: pages
     values:
       layout: base
-  -
-    scope:
+  - scope:
       path: ""
       type: posts
     values:
