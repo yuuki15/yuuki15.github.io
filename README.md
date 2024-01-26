@@ -5,7 +5,7 @@ This is yuuki's personal site.  It uses the [Plain](https://github.com/jekyll-th
 ## Mirrors
 
 * [yuukikonno.pages.dev](https://yuukikonno.pages.dev/)
-* [yuukiarchive.github.io](https://yuukiarchive.github.io/)
+* [yuukiarchives.github.io](https://yuukiarchives.github.io/)
 
 ## Latest snapshots
 
