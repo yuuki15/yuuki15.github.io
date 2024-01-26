@@ -3,6 +3,8 @@ remote_theme: jekyll-theme-plain/jekyll-theme-plain
 title: yuuki
 url: https://yuukikonno.com
 license_url: https://creativecommons.org/licenses/by-sa/4.0/
+stylesheets:
+  - base.css
 
 exclude:
   - Gemfile*
@@ -26,3 +28,5 @@ defaults:
       type: posts
     values:
       layout: post
+      stylesheets:
+        - post.css
