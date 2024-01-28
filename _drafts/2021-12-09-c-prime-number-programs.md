@@ -48,7 +48,7 @@ prime.c
 
 ---
 
-    % gcc -std=c89 -Wall -Wextra -Werror -pedantic-errors -o prime prime.c
+    % gcc -std=c89 -pedantic -Wall -Wextra -o prime prime.c
     % ./prime
     2
     3
