@@ -8,6 +8,8 @@ An integer n > 1 is prime iff it is not divisible by any integer i such that 2 <
 
 A simple C program to print the primes less than 100 would look like this:
 
+prime.c
+
     #include <stdio.h>
     
     /**
@@ -43,3 +45,12 @@ A simple C program to print the primes less than 100 would look like this:
     
         return 0;
     }
+
+---
+
+    % gcc -std=c89 -Wall -Wextra -Werror -pedantic-errors -o prime prime.c
+    % ./prime
+    2
+    3
+    ...
+    97
