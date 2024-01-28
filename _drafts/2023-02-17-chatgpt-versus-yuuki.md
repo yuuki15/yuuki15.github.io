@@ -1,7 +1,7 @@
 ---
 ---
 
-On February 16, 2023, I became the first human being to play a complete game of shogi against ChatGPT.  I listed all the legal moves on each ChatGPT's turn using python-shogi and let them choose their move.  I uploaded the game to Lishogi https://lishogi.org/pma1myEC and Shogi Playground https://kifu.co/Zw7L (also included at the end of this paper).
+On February 16, 2023, I became the first human being to play a complete game of shogi against ChatGPT.  I listed all the legal moves on each ChatGPT's turn using python-shogi and let them choose their move.  I uploaded the game to Lishogi https://lishogi.org/pma1myEC and Shogi Playground https://kifu.co/Zw7L (also included at the end of this article).
 
 How I played against ChatGPT
 ----------------------------
