@@ -3,49 +3,53 @@
 
 Source of the Japanese lyrics: https://oshu-esashi.com/jinku/words.html
 
-一、甚句踊りは　かどまで来たや　（チョイサノサッサ　チョイサノサッサ）
-jinku odori wa kado made kita ya
-The jinku parade is passing by my house
+    一、甚句踊りは　かどまで来たや　（チョイサノサッサ　チョイサノサッサ）
+    jinku odori wa kado made kita ya
+    The jinku parade is passing by my house
+    
+    　　じいさま出てみろ　アリャ孫つれて　（チョイサノサッサ　チョイサノサッサ）
+    jii sama dete miro arya mago tsurete
+    Come out, grandfather, with your grandchild [^1]
 
-　　じいさま出てみろ　アリャ孫つれて　（チョイサノサッサ　チョイサノサッサ）
-jii sama dete miro arya mago tsurete
-Come out, grandfather, with your grandchild [^1]
+---
 
+    二、この家座敷は　めでたい座敷　（チョイサノサッサ　チョイサノサッサ）
+    kono ya zashiki wa medetai zashiki
+    The parlor of this house is an auspicious parlor [^2]
+    
+    　　鶴と亀とが　アリャ舞い遊ぶ　（チョイサノサッサ　チョイサノサッサ）
+    tsuru to kame to ga arya mai asobu
+    The crane and tortoise cavort [^3]
 
-二、この家座敷は　めでたい座敷　（チョイサノサッサ　チョイサノサッサ）
-kono ya zashiki wa medetai zashiki
-The parlor of this house is an auspicious parlor [^2]
+---
 
-　　鶴と亀とが　アリャ舞い遊ぶ　（チョイサノサッサ　チョイサノサッサ）
-tsuru to kame to ga arya mai asobu
-The crane and tortoise cavort [^3]
+    三、甚句踊らば　品良く踊れ　（チョイサノサッサ　チョイサノサッサ）
+    jinku odoraba shina yoku odore
+    If you're going to dance jinku, dance with grace [^4]
+    
+    　　品の良いのを　アリャ嫁にとる　（チョイサノサッサ　チョイサノサッサ）
+    shina no yoi no o arya yome ni toru
+    The most graceful will become my bride [^5]
 
+---
 
-三、甚句踊らば　品良く踊れ　（チョイサノサッサ　チョイサノサッサ）
-jinku odoraba shina yoku odore
-If you're going to dance jinku, dance with grace [^4]
+    四、めでたうれしや　思ふことかのうた　（チョイサノサッサ　チョイサノサッサ）
+    medeta ureshi ya omou koto kanouta
+    How auspicious, how happy I am, my dream came true
+    
+    　　四つのすみから　アリャ黄金わく　（チョイサノサッサ　チョイサノサッサ）
+    yotsu no sumi kara arya kogane waku
+    Gold springs from the four corners
 
-　　品の良いのを　アリャ嫁にとる　（チョイサノサッサ　チョイサノサッサ）
-shina no yoi no o arya yome ni toru
-The most graceful will become my bride [^5]
+---
 
-
-四、めでたうれしや　思ふことかのうた　（チョイサノサッサ　チョイサノサッサ）
-medeta ureshi ya omou koto kanouta
-How auspicious, how happy I am, my dream came true
-
-　　四つのすみから　アリャ黄金わく　（チョイサノサッサ　チョイサノサッサ）
-yotsu no sumi kara arya kogane waku
-Gold springs from the four corners
-
-
-五、甚句踊りの　江刺の里は　（チョイサノサッサ　チョイサノサッサ）
-jinku odori no esashi no sato wa
-Esashi the village of jinku dance
-
-　　味がじまんの　アリャ米どころ　（チョイサノサッサ　チョイサノサッサ）
-aji ga jiman no arya kome dokoro
-Is famous for its flavorful rice
+    五、甚句踊りの　江刺の里は　（チョイサノサッサ　チョイサノサッサ）
+    jinku odori no esashi no sato wa
+    Esashi the village of jinku dance
+    
+    　　味がじまんの　アリャ米どころ　（チョイサノサッサ　チョイサノサッサ）
+    aji ga jiman no arya kome dokoro
+    Is famous for its flavorful rice
 
 References
 ----------
