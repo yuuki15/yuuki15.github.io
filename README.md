@@ -1,6 +1,6 @@
 # [yuukikonno.com](https://yuukikonno.com/)
 
-* [Mint](https://min.togetter.com/yrnWYSS)
+[Mint](https://min.togetter.com/yrnWYSS)
 
 This is Yuuki's personal site.  It uses the [Plain](https://github.com/jekyll-theme-plain/jekyll-theme-plain) Jekyll theme.
 

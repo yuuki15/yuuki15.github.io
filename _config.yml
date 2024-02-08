@@ -4,7 +4,7 @@ title: yuuki
 url: https://yuukikonno.com
 license_url: https://creativecommons.org/licenses/by-sa/4.0/
 stylesheets:
-  - base.css
+  - default.css
 
 exclude:
   - Gemfile*
@@ -19,10 +19,6 @@ collections:
     permalink: /:title/
 
 defaults:
-  - scope:
-      path: ""
-    values:
-      layout: base
   - scope:
       path: ""
       type: posts
