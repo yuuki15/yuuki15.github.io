@@ -16,7 +16,6 @@ By the contrapositive, if shogi is a second-player win, then at least one of the
 2. P-76 G-32 is not perfect play for the second player.
 3. Both G-68 P-84 and G-68 P-34 are not perfect play for the second player.
 
-
 [^1]: http://kyokumen.jp/positions/91901
 [^2]: http://kyokumen.jp/positions/61913
 [^3]: http://kyokumen.jp/positions/14532033
