@@ -3,8 +3,8 @@
 
 I proved that shogi is not a second-player win (i.e., either a first-player win or a draw) assuming both of the following are true:
 
-1. Both P-26 G-32 [^1] (A) and P-76 G-32 [^2] (B) are perfect play for the second player.
-2. Either G-68 P-84 [^3] (A') or G-68 P-34 [^4] (B') is perfect play for the second player.
+1. Both P-26 G-32 (A) [^1] and P-76 G-32 (B) [^2] are perfect play for the second player.
+2. Either G-68 P-84 (A') [^3] or G-68 P-34 (B') [^4] is perfect play for the second player.
 
 Proof: By strategy-stealing.  Assume that shogi is a second-player win.  Then both (A) and (B) are second-player wins by Assumption 1.  However, in both (A') and (B'), playing G-78 makes the first player the same as the second player in (A) and (B), respectively.  (Either is perfect play for the second player by Assumption 2.)  It then follows that shogi is a first-player win.  Contradiction.
 
