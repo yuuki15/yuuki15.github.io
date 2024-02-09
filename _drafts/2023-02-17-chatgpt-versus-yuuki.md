@@ -52,11 +52,11 @@ Then I replied to ChatGPT:
 
     Your possible moves are: 5i5h, 2h2g, 3i3h, 7i6h, 2h7h, 8g8f, 2h6h, 6i6h, 2h5h, 1g1f, 3i4h, 7g7f, 5i6h, 6i7h, 9g9f, 2h1h, 2h3h, 4i5h, 2f2e, 3g3f, 6g6f, 6i5h, 9i9h, 4i4h, 4i3h, 5g5f, 4g4f, 5i4h, 2h4h, 1i1h, 7i7h
 
-I repeated this process.  I ended up also saying
+I repeated this process and ultimately said to ChatGPT every time:
 
     It's your turn.  Don't list moves.  That's what I do.  Say only the move you want to play.  Don't say anything else.  Choose one of them.
 
-every time.  I created a shared link to the chat https://chat.openai.com/share/f406a004-ca2c-449d-b2ca-869f722dd458 (also uploaded to Pastebin https://pastebin.com/7qirN6mp). [^1]
+I created a shared link to the chat https://chat.openai.com/share/f406a004-ca2c-449d-b2ca-869f722dd458 (also uploaded to Pastebin https://pastebin.com/7qirN6mp). [^1]
 
 The game
 --------
