@@ -1,7 +1,7 @@
 ---
 ---
 
-I proved that shogi is not a second-player win (i.e., either a first-player win or a draw) if both of the following assumptions are true:
+I proved that shogi is not a second-player win (i.e., either a first-player win or a draw) assuming both of the following are true:
 
 1. Both P-26 G-32 [^1] (A) and P-76 G-32 [^2] (B) are perfect play for the second player.
 2. Either G-68 P-84 [^3] (A') or G-68 P-34 [^4] (B') is perfect play for the second player.
