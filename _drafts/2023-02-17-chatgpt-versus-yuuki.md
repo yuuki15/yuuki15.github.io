@@ -1,7 +1,7 @@
 ---
 ---
 
-On February 16, 2023, I became the first human being to play a complete game of shogi against ChatGPT.  I listed all legal moves on each of ChatGPT's turns using python-shogi and let them choose their move.
+On February 16, 2023, I became the first human being to play a complete game of shogi against ChatGPT.  I listed all legal moves on each of ChatGPT's turns using the python-shogi library and let them choose their move.
 
 * Lishogi https://lishogi.org/pma1myEC
 * Shogi Playground https://kifu.co/Zw7L
@@ -9,7 +9,7 @@ On February 16, 2023, I became the first human being to play a complete game of 
 How I played against ChatGPT
 ----------------------------
 
-My MacOS had the `python3` command installed.  I installed the python-shogi library and generated the moves in the Python shell:
+My MacOS had the `python3` command installed.  I installed python-shogi and generated moves in the Python shell:
 
     % pip3 install python-shogi
     % python3
