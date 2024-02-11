@@ -6,7 +6,7 @@ Programming prime numbers is often the first challenge for beginners.
 Definition (Prime number):
 An integer n > 1 is prime iff it is not divisible by any integer i such that 2 <= i <= n - 1.
 
-A simple C program to print the primes less than 100 would look like this:
+Here's a simple C program to print the primes less than 100:
 
 prime.c
 
