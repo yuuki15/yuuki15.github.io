@@ -54,8 +54,6 @@ prime.c
     ...
     97
 
-One of the most curious is whether a number is prime, and if not, what its prime factors are.  That's called prime factorization and discussed later.
-
 We can improve our program using arithmetic.
 
 Definition (Divisibility):
