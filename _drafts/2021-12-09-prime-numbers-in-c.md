@@ -57,4 +57,4 @@ prime.c
 We can improve our program using arithmetic.
 
 Definition (Divisibility):
-For integers n, d, and k, we say that n is divisible by d iff there exists k such that n = kd.
+Let n, d, and k be integers.  We say that n is divisible by d iff there exists k such that n = kd.
