@@ -55,3 +55,8 @@ prime.c
     97
 
 One of the most curious is whether a number is prime, and if not, what its prime factors are.  That's called prime factorization and discussed later.
+
+The above program can be improved using arithmetic.
+
+Definition (Divisibility):
+Let n, m, and k be integers.  n is divisible by m iff there exists k such that n = km.
