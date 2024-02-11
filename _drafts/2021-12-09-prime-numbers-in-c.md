@@ -46,7 +46,6 @@ prime.c
         return 0;
     }
 
----
 
     % gcc -Wall -Wextra -o prime prime.c
     % ./prime
