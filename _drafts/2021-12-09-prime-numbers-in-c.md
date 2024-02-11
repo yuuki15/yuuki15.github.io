@@ -53,3 +53,5 @@ prime.c
     3
     ...
     97
+
+One of the most curious is whether a number is prime and, if not, what its prime factors are.
