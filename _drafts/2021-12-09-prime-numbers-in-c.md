@@ -47,8 +47,8 @@ prime.c
     }
 
 
-    % gcc -Wall -Wextra -o prime prime.c
-    % ./prime
+    $ gcc -Wall -Wextra -o prime prime.c
+    $ ./prime
     2
     3
     ...
