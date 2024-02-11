@@ -1,7 +1,7 @@
 ---
 ---
 
-A prime number program is often the first challenge for a beginning programmer.
+Programming prime numbers is often the first challenge for a beginner.
 
 * Definition (Prime number):
     * An integer n > 1 is prime iff it is not divisible by any integer i such that 2 <= i <= n - 1.
