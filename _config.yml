@@ -19,5 +19,5 @@ defaults:
     values:
       layout: post
 
-exclude:
-  - Gemfile*
+include:
+  - .nojekyll
