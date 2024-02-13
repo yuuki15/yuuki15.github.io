@@ -2,14 +2,14 @@
 
 [Mint](https://min.togetter.com/yrnWYSS)
 
-This is Yuuki's personal site.  It uses the [Plain](https://github.com/jekyll-theme-plain/jekyll-theme-plain) Jekyll theme.
+This is the personal website of Yuuki.
 
 ## Mirrors
 
 * [yuukikonno.pages.dev](https://yuukikonno.pages.dev/)
-* [yuukiarchives.github.io](https://yuukiarchives.github.io/)
+* [yuuki15.github.io](https://yuuki15.github.io/)
 
-## Latest snapshots
+## Snapshots
 
 * [Internet Archive](https://web.archive.org/web/20240209123300/https://yuukikonno.com/)
 * [Archive.today](https://archive.today/2024.02.09-123140/https://yuukikonno.com/)
