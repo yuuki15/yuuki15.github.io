@@ -1,9 +1,11 @@
 remote_theme: jekyll-theme-plain/jekyll-theme-plain
 
 lang: en-US
-title: yuuki ゆうき(金野裕希)
+title: yuuki
 url: https://yuukikonno.com
 license_url: https://creativecommons.org/licenses/by-sa/4.0/
+stylesheets:
+  - default.css
 
 permalink: /blog/:title
 
@@ -18,6 +20,8 @@ defaults:
       type: posts
     values:
       layout: post
+      stylesheets:
+        - post.css
 
 include:
   - .nojekyll
