@@ -2,7 +2,7 @@
 
 [Mint](https://min.togetter.com/yrnWYSS)
 
-This is the personal website of Yuuki.  It uses the [Plain](https://github.com/jekyll-theme-plain/jekyll-theme-plain) Jekyll theme.
+This is the personal website of Yuuki.  It is built locally from the [main](https://github.com/yuuki15/yuuki15.github.io/tree/main) branch and deployed to the [gh-pages](https://github.com/yuuki15/yuuki15.github.io/tree/gh-pages) branch.  It uses the [Plain](https://github.com/jekyll-theme-plain/jekyll-theme-plain) Jekyll theme.
 
 ## Mirrors
 
