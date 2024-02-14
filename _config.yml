@@ -7,12 +7,12 @@ license_url: https://creativecommons.org/licenses/by-sa/4.0/
 stylesheets:
   - default.css
 
-permalink: /blog/:title
-
 collections:
   pages:
     output: true
     permalink: /:title/
+
+permalink: /blog/:title
 
 defaults:
   - scope:
