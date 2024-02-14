@@ -2,7 +2,7 @@
 
 [Mint](https://min.togetter.com/yrnWYSS)
 
-This is the personal website of Yuuki.
+This is the personal website of Yuuki.  It uses the [Plain](https://github.com/jekyll-theme-plain/jekyll-theme-plain) Jekyll theme.
 
 ## Mirrors
 
