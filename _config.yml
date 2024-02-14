@@ -19,9 +19,10 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: plain
+      layout: post
       stylesheets:
-        - plain.css
+        - post.css
+      title: ""
 
 include:
   - .nojekyll
