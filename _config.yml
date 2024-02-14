@@ -22,7 +22,7 @@ defaults:
       layout: post
       stylesheets:
         - post.css
-      title: ""
+      title: "" # sets the URL as the title
 
 include:
   - .nojekyll
