@@ -11,6 +11,6 @@ This is the personal website of Yuuki.  It is built locally from [`main`](https:
 
 ## Snapshots
 
-* [Internet Archive](https://web.archive.org/web/20240209123300/https://yuukikonno.com/)
-* [Archive.today](https://archive.today/2024.02.09-123140/https://yuukikonno.com/)
-* [Megalodon](https://megalodon.jp/2024-0209-2131-36/https://yuukikonno.com:443/)
+* [Internet Archive](https://web.archive.org/web/20240215135611/https://yuukikonno.com/)
+* [Archive.today](https://archive.today/2024.02.15-135545/https://yuukikonno.com/)
+* [Megalodon](https://megalodon.jp/2024-0215-2255-45/https://yuukikonno.com:443/)
