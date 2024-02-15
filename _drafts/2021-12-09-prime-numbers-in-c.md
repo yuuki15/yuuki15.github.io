@@ -76,4 +76,4 @@ Then we have:
     2d <= kd = n
 =>   d <= n/2.
 
-So it is sufficient to do trial division for an integer i <= n/2, instead of i <= n - 1.
+So, it is sufficient to do trial division for an integer i <= n/2, instead of i <= n - 1.
