@@ -54,7 +54,7 @@ prime.c
     ...
     97
 
-The program determines if a number is prime by dividing it by smaller numbers, as is the definition.  Such an algorithm is called trial division.
+This program determines if a number is prime by dividing it by smaller numbers, as is the definition.  Such an algorithm is called trial division.
 
 We can improve our program using arithmetic.
 
