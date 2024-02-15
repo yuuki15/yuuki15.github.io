@@ -64,14 +64,14 @@ Definition (Divisibility):
 Let n, d, and k be integers with d != 0.  We say that n is divisible by d (or d is a divisor of n) iff there exists k such that n = kd.
 
 Theorem (Upper bound for non-trivial divisors):
-If d is a non-trivial divisor of n (i.e., d < n), then d <= n/2.
+If d < n, then d <= n/2.
 
 Proof:
 From d < n, we have:
-n = kd < kn  (multiplied both sides by k and equated kd with n)
-=>   1 < k   (divided both sides by n)
-=>   k >= 2  (an integer greater than 1 is greater than or equal to 2).
+n = kd < kn
+=>   1 < k
+=>   k >= 2.
 
 Then we have:
-n = kd >= 2d (multiplied both sides by d and equated kd with n)
-=> n/2 >= d  (divided both sides by 2).
+n = kd >= 2d
+=> n/2 >= d.
