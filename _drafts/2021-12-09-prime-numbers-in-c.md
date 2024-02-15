@@ -56,7 +56,7 @@ prime.c
 
 This program determines if a number is prime by dividing it by smaller numbers, as is the definition.  Such an algorithm is called trial division.
 
-One of the most curious is, actually, whether a number is prime, and if not, what its prime factors are.  That's called prime factorization and discussed later.
+One of the most curious is, actually, whether a number is prime, and if not, what its prime factors are.  That's called prime factorization.  We will discuss it later and focus on a primality test and generation of primes now.
 
 We can improve our program using arithmetic.
 
