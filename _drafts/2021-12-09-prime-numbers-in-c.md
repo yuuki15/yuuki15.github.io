@@ -61,4 +61,7 @@ One of the most curious is, actually, whether a number is prime, and if not, wha
 We can improve our program using arithmetic.
 
 Definition (Divisibility):
-Let n, d, and k be integers.  We say that n is divisible by d iff there exists k such that n = kd.
+Let n, d, and k be integers with d != 0.  We say that n is divisible by d (or d is a divisor of n) iff there exists k such that n = kd.
+
+Theorem (Upper bound for non-trivial divisors):
+The greatest non-trivial divisor of n (i.e., excluding n itself) is less than or equal to n/2.
