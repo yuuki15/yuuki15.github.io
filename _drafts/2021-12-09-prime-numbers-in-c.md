@@ -68,10 +68,10 @@ If d < n, then d <= n/2.
 
 Proof:
 From d < n, we have:
-kd = n < kn
+n = kd < kn
 =>   1 < k
 =>   2 <= k.
 
 Then we have:
-    2d <= n = kd
+    2d <= kd = n
      d <= n/2.
