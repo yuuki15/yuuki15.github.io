@@ -74,4 +74,4 @@ n = kd < kn
 
 Then we have:
     2d <= kd = n
-     d <= n/2.
+=>   d <= n/2.
