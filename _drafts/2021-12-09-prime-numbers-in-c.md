@@ -70,8 +70,8 @@ Proof:
 From d < n, we have:
 n = kd < kn
 =>   1 < k
-=>   k >= 2.
+=>   2 <= k.
 
 Then we have:
-n = kd >= 2d
-=> n/2 >= d.
+    2d <= kd = n
+     d <= n/2.
