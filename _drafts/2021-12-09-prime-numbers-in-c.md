@@ -58,7 +58,7 @@ This program determines if a number is prime by dividing it by smaller numbers, 
 
 One of the most curious is, actually, whether a number is prime, and if not, what its prime factors are.  That's called prime factorization and discussed later.
 
-We can improve our program using arithmetic.
+We can improve our program using knowledge of arithmetic.
 
 Definition (Divisibility):
 Let n, d, and k be integers with d != 0.  We say that n is divisible by d (or d is a divisor of n) iff there exists k such that n = kd.
