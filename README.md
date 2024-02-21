@@ -8,6 +8,8 @@ This is the personal website of Yuuki.  It is built locally from [`main`](https:
 
 * [yuukikonno.pages.dev](https://yuukikonno.pages.dev/)
 * [yuuki15.github.io](https://yuuki15.github.io/)
+* [yuukikonno.netlify.app](https://yuukikonno.netlify.app/)
+* [yuukikonno.vercel.app](https://yuukikonno.vercel.app/)
 
 ## Snapshots
 
