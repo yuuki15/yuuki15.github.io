@@ -13,7 +13,7 @@ This is the personal website of Yuuki.  It is built locally from [`main`](https:
 
 ### Hyphanet (formerly Freenet)
 
-You need [Hyphanet](https://www.hyphanet.org/) or [Freenet Mobile](https://f-droid.org/packages/org.freenetproject.mobile/) (on Android) to access the link below.
+You need [Hyphanet](https://www.hyphanet.org/) or [Freenet Mobile](https://f-droid.org/packages/org.freenetproject.mobile/) (for Android) to access the link below.
 
 * [USK@jqMPA5M21HwWJ~ubrttysaF05CuMZZxNZqKJA4-8LZM,9JqZs7GP2A8ku8v1qL5quPtRIZNHctEkl4BmUE96yMs,AQACAAE/yuuki/2](http://127.0.0.1:8888/freenet:USK@jqMPA5M21HwWJ~ubrttysaF05CuMZZxNZqKJA4-8LZM,9JqZs7GP2A8ku8v1qL5quPtRIZNHctEkl4BmUE96yMs,AQACAAE/yuuki/2/)
 
