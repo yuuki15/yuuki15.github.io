@@ -19,6 +19,6 @@ You need [Hyphanet](https://www.hyphanet.org/) (or [Freenet Mobile](https://f-dr
 
 ## Snapshots
 
-* [Internet Archive](https://web.archive.org/web/20240301062030/https://yuukikonno.com/)
-* [Archive.today](https://archive.today/2024.03.01-061918/https://yuukikonno.com/)
-* [Megalodon](https://megalodon.jp/2024-0301-1519-17/https://yuukikonno.com:443/)
+* [Internet Archive](https://web.archive.org/web/20240302112214/https://yuukikonno.com/)
+* [Archive.today](https://archive.today/2024.03.02-112221/https://yuukikonno.com/)
+* [Megalodon](https://megalodon.jp/2024-0302-2022-22/https://yuukikonno.com:443/)
