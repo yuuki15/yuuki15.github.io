@@ -4,8 +4,6 @@ lang: en-US
 title: yuuki ゆうき(金野裕希)
 url: https://yuukikonno.com
 license_url: https://creativecommons.org/licenses/by-sa/4.0/
-stylesheets:
-  - default.css
 
 # Page permalinks
 collections:
