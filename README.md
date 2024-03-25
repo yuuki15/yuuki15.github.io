@@ -1,7 +1,5 @@
 # [yuukikonno.com](https://yuukikonno.com/)
 
-[Mint](https://min.togetter.com/yrnWYSS)
-
 This is the personal website of yuuki.
 
 ## Mirrors
