@@ -1,6 +1,6 @@
 # [yuukikonno.com](https://yuukikonno.com/)
 
-This is the personal website of yuuki.
+Personal website of yuuki
 
 ## Mirrors
 
