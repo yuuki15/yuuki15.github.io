@@ -11,6 +11,6 @@ Personal site of yuuki
 
 ## Snapshots
 
-* [Internet Archive](https://web.archive.org/web/20240711085404/https://yuukikonno.com/)
-* [Archive.today](https://archive.today/2024.07.11-085348/https://yuukikonno.com/)
-* [Megalodon](https://megalodon.jp/2024-0711-1753-50/https://yuukikonno.com:443/)
+* [Internet Archive](https://web.archive.org/web/https://yuukikonno.com/)
+* [Archive.today](https://archive.today/newest/https://yuukikonno.com/)
+* [Megalodon](https://gyo.tc/https://yuukikonno.com/)
