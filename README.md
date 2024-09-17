@@ -2,9 +2,9 @@
 
 Personal site of yuuki
 
-## Mirrors
+## Hosts
 
-* [yuukikonno.pages.dev](https://yuukikonno.pages.dev/)
+* [yuukikonno.pages.dev](https://yuukikonno.pages.dev/) (main)
 * [yuukikonno.netlify.app](https://yuukikonno.netlify.app/)
 * [yuukikonno.vercel.app](https://yuukikonno.vercel.app/)
 
