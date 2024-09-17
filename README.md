@@ -4,6 +4,7 @@ Personal site of yuuki
 
 ## Hosts
 
+* [yuuki15.github.io](https://yuuki15.github.io/)
 * [yuukikonno.pages.dev](https://yuukikonno.pages.dev/) (main)
 * [yuukikonno.netlify.app](https://yuukikonno.netlify.app/)
 * [yuukikonno.vercel.app](https://yuukikonno.vercel.app/)
