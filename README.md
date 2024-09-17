@@ -9,8 +9,8 @@ Personal site of yuuki
 * [yuukikonno.netlify.app](https://yuukikonno.netlify.app/)
 * [yuukikonno.vercel.app](https://yuukikonno.vercel.app/)
 
-## Snapshots
+## Archives
 
-* [Internet Archive](https://web.archive.org/web/https://yuukikonno.com/)
-* [Archive.today](https://archive.today/newest/https://yuukikonno.com/)
+* [Internet Archive](https://web.archive.org/web/*/https://yuukikonno.com/)
+* [Archive.today](https://archive.today/https://yuukikonno.com/)
 * [Megalodon](https://gyo.tc/https://yuukikonno.com/)
