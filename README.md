@@ -11,6 +11,6 @@ Personal site of yuuki
 
 ## Archives
 
-* [Internet Archive](https://web.archive.org/web/*/https://yuukikonno.com/)
 * [Archive.today](https://archive.today/https://yuukikonno.com/)
+* [Internet Archive](https://web.archive.org/web/*/https://yuukikonno.com/)
 * [Megalodon](https://gyo.tc/https://yuukikonno.com/)
