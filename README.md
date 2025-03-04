@@ -6,7 +6,7 @@ Personal site of yuuki
 
 * [yuuki15.github.io](https://yuuki15.github.io/)
 * [yuukikonno.netlify.app](https://yuukikonno.netlify.app/)
-* [yuukikonno.pages.dev](https://yuukikonno.pages.dev/) (domain points here)
+* [yuukikonno.pages.dev](https://yuukikonno.pages.dev/)
 * [yuukikonno.vercel.app](https://yuukikonno.vercel.app/)
 
 ## Archives
