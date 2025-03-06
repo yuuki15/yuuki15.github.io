@@ -1,7 +1,5 @@
 # [yuukikonno.com](https://yuukikonno.com/)
 
-yuuki's home page
-
 ## Hosts
 
 * [yuuki15.github.io](https://yuuki15.github.io/)
