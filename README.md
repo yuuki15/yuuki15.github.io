@@ -1,6 +1,6 @@
 # [yuukikonno.com](https://yuukikonno.com/)
 
-Personal site of yuuki
+yuuki's personal site
 
 ## Hosts
 
