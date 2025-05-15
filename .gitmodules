@@ -1,3 +1,6 @@
 [submodule "flash"]
 	path = flash
 	url = https://github.com/yuuki15/flash.git
+[submodule "calc"]
+	path = calc
+	url = https://github.com/yuuki15/calc.git
