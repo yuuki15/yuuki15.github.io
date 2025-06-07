@@ -65,10 +65,6 @@
         </td>
       </tr>
       <tr>
-        <th>Gender</th>
-        <td>Male</td>
-      </tr>
-      <tr>
         <th>Date of birth</th>
         <td>
           <time datetime="1994-05-17T01:56+09:00">
@@ -76,6 +72,14 @@
             <abbr title="Japan Standard Time">JST</abbr>
           </time>
         </td>
+      </tr>
+      <tr>
+        <th>Pronouns</th>
+        <td>he/they</td>
+      </tr>
+      <tr>
+        <th>Nationality</th>
+        <td>Japan</td>
       </tr>
       <tr>
         <th>Occupation</th>
@@ -88,13 +92,6 @@
       <tr>
         <th>Weight</th>
         <td>54.5 kg (120 lb)</td>
-      </tr>
-      <tr>
-        <th>Place of birth</th>
-        <td>
-          Iwate Prefectural Fukuoka Hospital
-          <small>(<span lang="ja">岩手県立福岡病院</span>)</small>
-        </td>
       </tr>
       <tr>
         <th rowspan="4">Education</th>
@@ -119,6 +116,13 @@
         <td>
           Iwate Prefectural Esashi Hospital In-Hospital Nursery Center Ayumi Nursery Center
           <small>(<span lang="ja">岩手県立江刺病院院内保育所 あゆみ保育所</span>)</small>
+        </td>
+      </tr>
+      <tr>
+        <th>Place of birth</th>
+        <td>
+          Iwate Prefectural Fukuoka Hospital
+          <small>(<span lang="ja">岩手県立福岡病院</span>)</small>
         </td>
       </tr>
     </table>
@@ -148,8 +152,10 @@
           { "@language": "ja-Hira", "@value": "こんの" },
           { "@language": "ja-Latn", "@value": "Konno" }
         ],
-        "gender": "Male",
         "birthDate": "1994-05-17T01:56+09:00",
+        "pronouns": "he/they",
+        "gender": "Male",
+        "nationality": "Japan",
         "hasOccupation": {
           "@type": "Occupation",
           "name": "Unemployed"
@@ -163,13 +169,6 @@
           "@type": "QuantitativeValue",
           "value": 54.5,
           "unitCode": "KGM"
-        },
-        "birthPlace": {
-          "@type": "Hospital",
-          "name": [
-            { "@language": "en", "@value": "Iwate Prefectural Fukuoka Hospital" },
-            { "@language": "ja", "@value": "岩手県立福岡病院" }
-          ]
         },
         "alumniOf": [
           {
@@ -214,7 +213,14 @@
               ]
             }
           }
-        ]
+        ],
+        "birthPlace": {
+          "@type": "Hospital",
+          "name": [
+            { "@language": "en", "@value": "Iwate Prefectural Fukuoka Hospital" },
+            { "@language": "ja", "@value": "岩手県立福岡病院" }
+          ]
+        }
       }
     </script>
   </body>
