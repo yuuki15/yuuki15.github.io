@@ -78,6 +78,18 @@
         </td>
       </tr>
       <tr>
+        <th>Occupation</th>
+        <td>Unemployed</td>
+      </tr>
+      <tr>
+        <th>Height</th>
+        <td>163.5 cm (5 ft 4.37 in)</td>
+      </tr>
+      <tr>
+        <th>Weight</th>
+        <td>54.5 kg (120 lb)</td>
+      </tr>
+      <tr>
         <th>Place of birth</th>
         <td>
           Iwate Prefectural Fukuoka Hospital
@@ -109,18 +121,6 @@
           <small>(<span lang="ja">岩手県立江刺病院院内保育所 あゆみ保育所</span>)</small>
         </td>
       </tr>
-      <tr>
-        <th>Occupation</th>
-        <td>Unemployed</td>
-      </tr>
-      <tr>
-        <th>Height</th>
-        <td>163.5 cm (5 ft 4.37 in)</td>
-      </tr>
-      <tr>
-        <th>Weight</th>
-        <td>54.5 kg (120 lb)</td>
-      </tr>
     </table>
     <script type="application/ld+json">
       {
@@ -150,6 +150,20 @@
         ],
         "gender": "Male",
         "birthDate": "1994-05-17T01:56+09:00",
+        "hasOccupation": {
+          "@type": "Occupation",
+          "name": "Unemployed"
+        },
+        "height": {
+          "@type": "QuantitativeValue",
+          "value": 163.5,
+          "unitCode": "CMT"
+        },
+        "weight": {
+          "@type": "QuantitativeValue",
+          "value": 54.5,
+          "unitCode": "KGM"
+        },
         "birthPlace": {
           "@type": "Hospital",
           "name": [
@@ -200,21 +214,7 @@
               ]
             }
           }
-        ],
-        "hasOccupation": {
-          "@type": "Occupation",
-          "name": "Unemployed"
-        },
-        "height": {
-          "@type": "QuantitativeValue",
-          "value": 163.5,
-          "unitCode": "CMT"
-        },
-        "weight": {
-          "@type": "QuantitativeValue",
-          "value": 54.5,
-          "unitCode": "KGM"
-        }
+        ]
       }
     </script>
   </body>
