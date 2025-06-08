@@ -8,10 +8,6 @@
     <link rel="canonical" href="https://yuukikonno.com/">
     <link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">
     <style>
-      #personal-data small {
-        font-size: 0.75rem;
-      }
-
       #personal-data td,
       #personal-data th {
         text-align: left;
@@ -78,8 +74,8 @@
         <td>he/they</td>
       </tr>
       <tr>
-        <th>Nationality</th>
-        <td>Japan</td>
+        <th>Residence</th>
+        <td>Karumai, Iwate, Japan</td>
       </tr>
       <tr>
         <th>Occupation</th>
@@ -155,11 +151,17 @@
         "birthDate": "1994-05-17T01:56+09:00",
         "pronouns": "he/they",
         "gender": "Male",
-        "nationality": "Japan",
-        "hasOccupation": {
-          "@type": "Occupation",
-          "name": "Unemployed"
+        "homeLocation": {
+          "@type": "Residence",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Karumai",
+            "addressRegion": "Iwate",
+            "addressCountry": "JP"
+          }
         },
+        "nationality": "JP",
+        "jobTitle": "Unemployed",
         "height": {
           "@type": "QuantitativeValue",
           "value": 163.5,
